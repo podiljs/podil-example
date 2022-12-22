@@ -1,0 +1,30 @@
+{
+  "name": "podil-example",
+  "version": "1.0.0",
+  "description": "A Node.js example of using Podil",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podiljs/podil-example.git"
+  },
+  "keywords": [
+    "podil",
+    "nodejs",
+    "sql",
+    "postgres",
+    "migration"
+  ],
+  "author": "Sasha Shpota",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/podiljs/podil-example/issues"
+  },
+  "homepage": "https://github.com/podiljs/podil-example#readme",
+  "dependencies": {
+    "pg": "^8.8.0",
+    "podil": "^0.2.1"
+  }
+}
